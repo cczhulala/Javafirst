@@ -11,6 +11,6 @@ public class ArrayDemo4 {
     public static void main(String[] args) {
 
 
-sdasdadsaadsads
+sdasdadsaadsads   public static void main(String[] args) {
     }
 }
